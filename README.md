@@ -10,16 +10,16 @@ An executable of this prject is available in this repository as well. (Try it, i
 Screenshots:
 Welcome
 
-![1](1.png)
+![1](1.PNG)
 
 Study mode
 
-![2](2.png)
+![2](2.PNG)
 
 Auto-bot mode
 
-![1](3.png)
+![1](3.PNG)
 
 Test mode
 
-![1](4.png)
+![1](4.PNG)
