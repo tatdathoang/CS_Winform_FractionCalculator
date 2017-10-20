@@ -1,4 +1,4 @@
-# CS_Winform_FractionCalculator
+## CS_Winform_FractionCalculator
 
 This is an simple project I built to help people on learning how to do math with fraction and compare fractions.
 It has three modes:
